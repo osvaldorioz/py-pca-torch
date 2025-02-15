@@ -1,4 +1,4 @@
-El **Análisis de Componentes Principales** (PCA, por sus siglas en inglés) es una técnica estadística utilizada para reducir la dimensionalidad de conjuntos de datos complejos, manteniendo la mayor cantidad de información posible. Esto se logra transformando variables posiblemente correlacionadas en un conjunto más pequeño de variables no correlacionadas llamadas componentes principales. citeturn0search0
+El **Análisis de Componentes Principales** (PCA, por sus siglas en inglés) es una técnica estadística utilizada para reducir la dimensionalidad de conjuntos de datos complejos, manteniendo la mayor cantidad de información posible. Esto se logra transformando variables posiblemente correlacionadas en un conjunto más pequeño de variables no correlacionadas llamadas componentes principales.
 
 **Objetivos principales del PCA:**
 
@@ -14,4 +14,4 @@ El **Análisis de Componentes Principales** (PCA, por sus siglas en inglés) es 
 4. **Selección de componentes principales:** Elegir los componentes que explican la mayor parte de la varianza.
 5. **Transformación de los datos:** Proyectar los datos originales en el nuevo espacio definido por los componentes seleccionados.
 
-El PCA es ampliamente utilizado en campos como el aprendizaje automático, la bioinformática y la economía, especialmente cuando se trabaja con datos de alta dimensionalidad. Al reducir el número de variables, facilita la visualización, el análisis y puede mejorar el rendimiento de los modelos predictivos. citeturn0search1 
+El PCA es ampliamente utilizado en campos como el aprendizaje automático, la bioinformática y la economía, especialmente cuando se trabaja con datos de alta dimensionalidad. Al reducir el número de variables, facilita la visualización, el análisis y puede mejorar el rendimiento de los modelos predictivos.
